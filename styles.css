@@ -1,2 +1,25 @@
+body {
+      margin: 20px;
+    }
+    .size-chart {
+      width: 80%;
+		border:2px solid black;
+      border-collapse: collapse;
+    }
+    .size-chart thead {
+      background-color: rgb(214, 88, 71);
+      color: white;
+		
+    }
+    .size-chart th, .size-chart td {
+      text-align: center;
+      padding: 10px;
+    }
+.size-chart tbody td{
+	border: 2px solid black;
+}
+.size-chart thead th{
+	border: 2px solid black;
+}
 
 /* Your CSS Code here. */
